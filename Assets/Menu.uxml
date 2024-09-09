@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Sunnyland/artwork/Environment/back.png?fileID=2800000&amp;guid=8e160a2a620644cd6afef9119dad1093&amp;type=3#back&quot;); justify-content: center; align-self: auto; align-items: center;">
-        <ui:Label tabindex="-1" text="SunnyLand" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 32px; -unity-font-definition: initial; -unity-font: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;);" />
-        <ui:Button text="Jogar" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnJogar" />
+    <ui:VisualElement style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Fundo/tboi.jpg?fileID=2800000&amp;guid=a72e54c30a5b5fa49b6ff58b70c489c5&amp;type=3#tboi&quot;);">
+        <ui:Label tabindex="-1" text="As aventuras de um trouxa" parse-escape-sequences="true" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255); align-items: auto; align-self: center; left: 0; top: 100px; -unity-font: url(&quot;project://database/Assets/Fonts/SignikaNegative-VariableFont_wght.ttf?fileID=12800000&amp;guid=5e30cb618e59b5f46b1d5a7681e5cbf0&amp;type=3#SignikaNegative-VariableFont_wght&quot;); font-size: 14px; -unity-font-definition: initial;" />
+        <ui:Button text="Jogar está coisa" parse-escape-sequences="true" display-tooltip-when-elided="true" name="btnJogar" style="width: 141px; height: 32px; transform-origin: center; align-self: center; top: 200px;" />
     </ui:VisualElement>
 </ui:UXML>

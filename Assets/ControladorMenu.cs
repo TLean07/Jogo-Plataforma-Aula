@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using UnityEngine.SceneManagement;
 
-public class ControladorMenu : MonoBehaviour
+public class controladorMenu : MonoBehaviour
 {
     private UIDocument document;
     private Button botao;
